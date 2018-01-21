@@ -6,4 +6,5 @@ $(document).ready(function(){
 
 });
 
-function getIt() { $('p').on("click")
+function getIt() { 
+  $('p').on("click", 
