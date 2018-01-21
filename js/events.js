@@ -6,4 +6,4 @@ $(document).ready(function(){
 
 });
 
-function getIt() { 
+function getIt() { $()
